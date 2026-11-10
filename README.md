@@ -1,5 +1,7 @@
 # Mounir Belboualia
 
+Student in Data Science at Technische Hochschule Augsburg.
+
 **Data Science · Machine Learning · Scientific Computing · Physics-Informed Modeling · MCP**
 
 I work on research software that connects mathematical models, data analysis and reproducible evaluation. My interests include sensor time series, interpretable models and structured access to information.
@@ -35,3 +37,7 @@ The repositories below contain third-party projects or materials. They are not p
 - Prefer simple, interpretable baselines before adding complexity.
 
 This is a personal portfolio and does not represent an official institutional publication or endorsement.
+
+## Research contact
+
+For research enquiries: [belboualia.mounir@tha.de](mailto:belboualia.mounir@tha.de).
